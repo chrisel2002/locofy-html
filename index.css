@@ -1,0 +1,9 @@
+.template-a-web-1 {
+  width: 100%;
+  position: relative;
+  height: 726px;
+  background-image: url(./public/template-a--web-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
